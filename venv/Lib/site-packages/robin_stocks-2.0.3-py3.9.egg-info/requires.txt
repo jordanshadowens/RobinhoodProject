@@ -1,0 +1,4 @@
+requests
+pyotp
+python-dotenv
+cryptography
